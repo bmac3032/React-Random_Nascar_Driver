@@ -1,0 +1,63 @@
+.Card {
+  padding: 5px;
+  margin: 5px;
+  border: solid 2px black;
+  background-color: #ff22;
+  color: #323232;
+  width: 50%;
+  margin: auto;
+}
+
+.Card p {
+  font-family: Helvetica;
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+.Card button {
+  text-decoration: none;
+  border: none;
+  background-color: #323232;
+  color: white;
+  padding: 10px;
+  border-radius: 10%;
+  box-shadow: 3px 3px 3px black;
+  transition: ease 0.5s;
+}
+
+.Card button:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.Brad {
+  background-color: blue;
+  color: white;
+}
+
+.Joey {
+  background-color: yellow;
+  color: red;
+}
+
+.Kevin {
+  background-color: green;
+  color: red;
+}
+
+.Chase {
+  background-color: slateblue;
+  color: greenyellow;
+}
+
+.Denny {
+  background-color: purple;
+  color: orange;
+}
+
+.Ryan {
+  background-color: green;
+  color: yellow;
+}
